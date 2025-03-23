@@ -1,6 +1,6 @@
-# Source Code for Computer Programming Labs & Practicals
+# Computer Programming Labs & Practicals
 
-Welcome to **Computer Programming Labs & Practicals**! This repository serves as a collection of source codes from my laboratory exercises and practical activities in Computer Programming subject.
+This repository serves as a collection of source codes from my laboratory exercises and practical activities in Computer Programming subject.
 
 ## 📌 About
 This repository contains various coding exercises, implementations, and projects that I have worked on during my studies. These codes include simple and advanced programming concepts or logic; this helps me strengthen my understanding and skills in programming.
