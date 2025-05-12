@@ -24,7 +24,7 @@ Most of the source codes in this repository are written in **Java**.
 This repository is for educational purposes. Feel free to use the code as a reference, but do not submit it as your own work.
 
 ## 📬 Contact
-If you have any questions or suggestions, feel free to reach out!
+If you have any questions or suggestions, feel free to [reach me](mailto:zeankurtbalboa06@gmail.com) out!
 
 ---
 Happy Coding!
